@@ -2,6 +2,7 @@
 
 🎓 Web development student at **Business College Helsinki.**  
 
+
 Currently studying **HTML, CSS, JavaScript, React, WordPress, UI/UX Design, and PHP!** 
 
 Passionate about building responsive websites and improving user experiences.
@@ -14,9 +15,12 @@ Passionate about building responsive websites and improving user experiences.
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat)
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+
+![UI/UX DESIGN](https://img.shields.io/badge/-UI/UX%20DESIGN-FF7262?style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-FF7262?logo=figma&logoColor=white&style=flat)
 
 ---
@@ -28,9 +32,9 @@ Passionate about building responsive websites and improving user experiences.
 ---
 
 ## 🔗 Connect with me
-- [Portfolio](https://github.com/BitaYeganeh/My_Portfolio)  
-- [LinkedIn](https://www.linkedin.com/in/bita-yeganeh-503144237/)  
-- Email: *b.yeganeh85@gmail.com*
+  [Portfolio](https://github.com/BitaYeganeh/My_Portfolio)  
+  [LinkedIn](https://www.linkedin.com/in/bita-yeganeh-503144237/)  
+  *b.yeganeh85@gmail.com*
 
 ---
 
