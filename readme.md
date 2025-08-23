@@ -1,11 +1,10 @@
-# BitaYeganeh
 # Hi there, I'm Bita 👋
 
 🎓 Web development student at **Business College Helsinki.**  
 
 Currently studying **HTML, CSS, JavaScript, React, WordPress, UI/UX Design, and PHP!** 
 
-Passionate about building responsive websites and improving user experiences 
+Passionate about building responsive websites and improving user experiences.
 
  
 
@@ -31,8 +30,8 @@ Passionate about building responsive websites and improving user experiences
 ## 🔗 Connect with me
 - [Portfolio](https://github.com/BitaYeganeh/My_Portfolio)  
 - [LinkedIn](https://www.linkedin.com/in/bita-yeganeh-503144237/)  
-- Email: **b.yeganeh85@gmail.com**
+- Email: *b.yeganeh85@gmail.com*
 
 ---
 
-✨ *“Code is like art – it gets better the more you practice.”*  
+✨ *Code is like "art" – it gets better the more you "practice".*  
