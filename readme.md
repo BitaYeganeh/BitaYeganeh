@@ -32,7 +32,7 @@ Passionate about building responsive websites and improving user experiences.
 ---
 
 ## 🔗 Connect with me
-  [Portfolio](https://github.com/BitaYeganeh/My_Portfolio)  
+  [Portfolio](https://bitayeganeh.github.io/My_Portfolio/)  
   [LinkedIn](https://www.linkedin.com/in/bita-yeganeh-503144237/)  
   *b.yeganeh85@gmail.com*
 
