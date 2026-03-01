@@ -38,4 +38,4 @@ Passionate about building responsive websites and improving user experiences.
 
 ---
 
-✨ *Code is like "art" – it gets better the more you "practice".*  
+✨ *Code is like ART – it gets better the more you PRACTICE.*  
