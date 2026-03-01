@@ -26,8 +26,8 @@ Passionate about building responsive websites and improving user experiences.
 ---
 
 ## GitHub Stats
-![Bita's GitHub stats](github-readme-stats.vercel.app/api?username=BitaYeganeh&show_icons=true&theme=radical)  
-![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=BitaYeganeh&layout=compact&theme=radical)
+![Bita's GitHub stats](https://github-readme-stats.vercel.app/api?username=BitaYeganeh&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitaYeganeh&layout=compact&theme=radical)
 
 ---
 
