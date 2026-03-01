@@ -25,12 +25,6 @@ Passionate about building responsive websites and improving user experiences.
 
 ---
 
-## GitHub Stats
-![Bita's GitHub stats](https://github-readme-stats.vercel.app/api?username=BitaYeganeh&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitaYeganeh&layout=compact&theme=radical)
-
----
-
 ## 🔗 Connect with me
   [Portfolio](https://myportfolio-u7mw.onrender.com/)  
   [LinkedIn](https://www.linkedin.com/in/bita-yeganeh-503144237/)  
