@@ -4,9 +4,9 @@
 
 I'm passionate about building modern, responsive, and accessible web applications while continuously expanding my skills in software development and cybersecurity.
 
-Currently, I'm working as an **ICT/Cybersecurity Trainee**, where I contribute to redesigning company websites, improving user experience, accessibility, and implementing secure frontend development practices.
+Currently, I'm working as an **ICT Trainee**, where I contribute to redesigning company websites, improving user experience, accessibility, and implementing secure frontend development practices.
 
-My background in **Electronics Engineering**, **Renewable Energy**, and international work experience gives me a unique perspective on problem-solving, adaptability, and continuous learning.
+My background in **Electronics Engineering**, **Renewable Energy**, and international work experience as **Quality Control** gives me a unique perspective on problem-solving, adaptability, and continuous learning.
 
 ---
 
