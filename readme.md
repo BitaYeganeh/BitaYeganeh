@@ -60,7 +60,7 @@ My background in **Electronics Engineering**, **Renewable Energy**, and internat
 
 Responsive portfolio built with React featuring projects, education, experience, certificates, and dark mode.
 
-🔗 https://your-portfolio-link.com
+🔗 https://myportfolio-u7mw.onrender.com
 
 ---
 
@@ -76,30 +76,5 @@ Responsive portfolio built with React featuring projects, education, experience,
 
 > *"Continuous learning and curiosity drive every project I build."* 🚀
 
-## 🔧 Technologies & Tools:
-
-⚛ React
-🟨 JavaScript
-🐍 Python
-🌐 HTML5
-🎨 CSS3
-🚀 Astro
-🐘 PHP
-🗄 SQL
-🟦 WordPress
-🐙 Git
----
-
-## 🔗 Connect with me
-🌐 Portfolio
-👉 https://myportfolio-u7mw.onrender.com
-
-💼 LinkedIn[
-👉 https://www.linkedin.com/in/bita-yeganeh-503144237/
-
-🐙 GitHub
-👉 You're already here 😄 
-
----
 
 ✨ *Code is like ART – it gets better the more you PRACTICE.*  
