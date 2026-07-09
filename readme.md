@@ -1,34 +1,39 @@
 # Hi there, I'm Bita 👋
 
-🎓 Web development student at **Business College Helsinki.**  
+💻 Software Development Student based in Helsinki, Finland
 
+🛡️ Cybersecurity Trainee with a passion for building modern, secure, and user-friendly web applications.
 
-Currently studying **HTML, CSS, JavaScript, React, WordPress, UI/UX Design, and PHP!** 
+🎓 Studying Software Development at Business College Helsinki while expanding my skills through real-world projects and continuous learning.
 
-Passionate about building responsive websites and improving user experiences.
-
+🌱 Currently exploring React, Astro, JavaScript, Python, SQL, PHP, and secure frontend development.
  
 
 ---
 
-## 🔧 Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat)
+## 🔧 Technologies & Tools:
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-
-![UI/UX DESIGN](https://img.shields.io/badge/-UI/UX%20DESIGN-FF7262?style=flat)
-![Figma](https://img.shields.io/badge/-Figma-FF7262?logo=figma&logoColor=white&style=flat)
-
+⚛ React
+🟨 JavaScript
+🐍 Python
+🌐 HTML5
+🎨 CSS3
+🚀 Astro
+🐘 PHP
+🗄 SQL
+🟦 WordPress
+🐙 Git
 ---
 
 ## 🔗 Connect with me
-  [Portfolio](https://myportfolio-u7mw.onrender.com/)  
-  [LinkedIn](https://www.linkedin.com/in/bita-yeganeh-503144237/)  
-  *b.yeganeh85@gmail.com*
+🌐 Portfolio
+👉 https://myportfolio-u7mw.onrender.com
+
+💼 LinkedIn[
+👉 https://www.linkedin.com/in/bita-yeganeh-503144237/
+
+🐙 GitHub
+👉 You're already here 😄 
 
 ---
 
