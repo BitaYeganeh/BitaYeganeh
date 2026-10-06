@@ -19,7 +19,7 @@ I build clean, user-focused web applications with React and TypeScript, and I te
 
 **More projects:** [StockFlow](https://github.com/BitaYeganeh/StockFlow/tree/final_task), an inventory app with a PHP (Slim) REST API, React, Supabase and Gemini AI · [Live demo](https://stockflow-7o1k.onrender.com) · [Flower Shop](https://github.com/BitaYeganeh/flower-shop-sql), a MariaDB + Express ordering app with tests in CI · [Currency Converter](https://github.com/BitaYeganeh/06-Exchange-rate-API) · [Live](https://bitayeganeh.github.io/06-Exchange-rate-API/)
 
-**Work:** ICT Trainee at Cyber Security Finland (2026): redesigned the company website with React, Astro and TypeScript, reaching a Lighthouse mobile score of 84/100.
+**Work:** ICT Trainee at Cyber Security Finland (2026): redesigned the company website with Astro, TypeScript and Tailwind CSS (Lighthouse mobile: performance 90, accessibility 96).
 
 My own three projects run **84 automated tests** in **GitHub Actions** on every push.
 
