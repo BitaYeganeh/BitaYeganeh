@@ -17,7 +17,7 @@ I build clean, user-focused web applications with React and TypeScript, and I te
 | [**Django To-Do App**](https://github.com/BitaYeganeh/Python_django-TO-DO-LIST-) | Python/Django task manager with sign-up, per-user tasks and a demo mode · [Live demo](https://django-todo-xvec.onrender.com) | 22 Django tests · fixed a CSRF delete-by-link issue and a crash bug |
 | [**The Swap Cabinet**](https://github.com/BitaYeganeh/swap-cabinet-hackathon) | Tieto Bootcamp Sharetribe hackathon (team of four): AI and photo search for a secondhand-clothing marketplace. I built the React + TypeScript front end. | Team AI search: 54% correct results vs 27% for the built-in search |
 
-**More projects:** [StockFlow](https://github.com/BitaYeganeh/StockFlow/tree/final_task), an inventory app with a PHP (Slim) REST API, React, Supabase and Gemini AI · [Live demo](https://stockflow-7o1k.onrender.com) · [Currency Converter](https://github.com/BitaYeganeh/06-Exchange-rate-API) · [Live](https://bitayeganeh.github.io/06-Exchange-rate-API/)
+**More projects:** [StockFlow](https://github.com/BitaYeganeh/StockFlow/tree/final_task), an inventory app with a PHP (Slim) REST API, React, Supabase and Gemini AI · [Live demo](https://stockflow-7o1k.onrender.com) · [Flower Shop](https://github.com/BitaYeganeh/flower-shop-sql), a MariaDB + Express ordering app with tests in CI · [Currency Converter](https://github.com/BitaYeganeh/06-Exchange-rate-API) · [Live](https://bitayeganeh.github.io/06-Exchange-rate-API/)
 
 **Work:** ICT Trainee at Cyber Security Finland (2026): redesigned the company website with React, Astro and TypeScript, reaching a Lighthouse mobile score of 84/100.
 
